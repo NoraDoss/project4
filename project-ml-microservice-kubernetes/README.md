@@ -1,5 +1,4 @@
 <include a CircleCI status badge, here>
-3858eb60b7a26c236ae1ee59c76c1347653d42f8
 [![CircleCI](https://circleci.com/gh/NoraDoss/project4.svg?style=svg&circle-token=3858eb60b7a26c236ae1ee59c76c1347653d42f8)](https://github.com/NoraDoss/project4/tree/circleci-project-setup)
 
 
