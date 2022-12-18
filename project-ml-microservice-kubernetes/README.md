@@ -47,15 +47,15 @@ source .devops/bin/activate
 ### Kubernetes Steps
 
 * Setup and Configure Docker locally
-- Run, build, and deploy your docker by executing `./run_docker.sh`
-- Upload your docker image to docker hub by executing `./upload_docker.sh`
+Run, build, and deploy your docker by executing `./run_docker.sh`
+Upload your docker image to docker hub by executing `./upload_docker.sh`
 
 * Setup and Configure Kubernetes locally
-- Start your kubernetes cluster by executing `minikube start`
-- Check your cluster status by executing `kubectl config view`
+Start your kubernetes cluster by executing `minikube start`
+Check your cluster status by executing `kubectl config view`
 
 * Create Flask app in Container
-- Test your application by executing `./make_prediction.sh`
+Test your application by executing `./make_prediction.sh`
 
 * Run via kubectl
-- Run your application via kubernetes by executing `./run_kubernetes.sh`
+Run your application via kubernetes by executing `./run_kubernetes.sh`
