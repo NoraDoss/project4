@@ -1,5 +1,5 @@
 ## CircleCI Status Badge
-[![CircleCI](https://circleci.com/gh/NoraDoss/project4.svg?style=svg&circle-token=3858eb60b7a26c236ae1ee59c76c1347653d42f8)](https://app.circleci.com/pipelines/github/NoraDoss/project4)
+[![CircleCI](https://circleci.com/gh/NoraDoss/project4/tree/circleci-project-setup.svg?style=svg&circle-token=3858eb60b7a26c236ae1ee59c76c1347653d42f8)](https://app.circleci.com/pipelines/github/NoraDoss/project4)
 
 
 ## Project Overview
